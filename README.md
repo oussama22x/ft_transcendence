@@ -45,9 +45,3 @@ This project introduces key concepts in **web development**, including RESTful A
 - **Real-Time**: WebSockets (Django Channels)  
 - **Deployment**: Docker, Nginx
 
-## 🚀 Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ft_transcendence.git
-   cd ft_transcendence

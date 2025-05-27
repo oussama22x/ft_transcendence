@@ -2,7 +2,6 @@
 
 ![Pong Gameplay](https://upload.wikimedia.org/wikipedia/commons/5/5a/Pong.gif)
 
-
 A full-stack web application built as part of the 42 school curriculum.  
 It features a real-time multiplayer **Pong game**, user authentication, and a basic social system — all developed using Django and modern web standards.
 
@@ -47,3 +46,9 @@ This project introduces key concepts in **web development**, including RESTful A
 - **Real-Time**: WebSockets (Django Channels)  
 - **Deployment**: Docker, Nginx
 
+## 🚀 Getting Started
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/ft_transcendence.git
+   cd ft_transcendence

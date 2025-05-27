@@ -1,7 +1,6 @@
 # ft_transcendence 🏓
 
-![Pong Gameplay](https://upload.wikimedia.org/wikipedia/commons/7/75/Pong-Animated-Game.gif)
-
+![Pong Gameplay](https://media.giphy.com/media/3o7TKqnN349PBUtGFO/giphy.gif)
 
 A full-stack web application built as part of the 42 school curriculum.  
 It features a real-time multiplayer **Pong game**, user authentication, and a basic social system — all developed using Django and modern web standards.
